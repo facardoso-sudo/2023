@@ -1,1 +1,2 @@
-# Controlador para sincronização de contrapartes em aplicaçóes de gêmeos digitais.
+# Controlador para sincronização de contrapartes em aplicações de gêmeos digitais.
+
